@@ -29,6 +29,12 @@ La topología incluye:
 ---
 
 ## Pasos Clave en la Configuración  
-1. **Eliminación de módulos dinámicos en Floodlight** para controlar manualmente las reglas de flujo.  
-2. **Integración de FreeRADIUS** con SQL para la validación de credenciales y asignación de políticas.  
-3. **Desarrollo del Portal Cautivo con Flask**, conectado al controlador para aplicar reglas específicas por usuario.  
+1. **Eliminación de módulos dinámicos en Floodlight** para controlar manualmente las reglas de flujo.
+  ![image](https://github.com/user-attachments/assets/e496d4d4-a1f2-4b85-a63f-3421d57888b6)
+
+3. **Integración de FreeRADIUS** con SQL para la validación de credenciales y asignación de políticas.
+   ![image](https://github.com/user-attachments/assets/08d85c96-1f9f-4eed-b3b8-332eaf1f004b)
+
+5. **Desarrollo del Portal Cautivo con Flask**, conectado al controlador para aplicar reglas específicas por usuario.
+   ![image](https://github.com/user-attachments/assets/2013f1eb-e6ec-4cf6-9d01-8c87ed077714)
+
